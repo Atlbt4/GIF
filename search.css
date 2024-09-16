@@ -1,0 +1,50 @@
+h1 {
+margin-bottom: 1rem;
+color: #333;
+text-align: center;
+}
+
+#searchName{
+width: 48%;
+float: left;
+height: 30px;
+margin: 10px;
+border-radius: 10px;
+margin-top: 80px;
+text-align: center;
+}
+
+#searchState{
+width: 48%;
+float: right;
+height: 30px;
+margin: 10px;
+border-radius: 10px;
+margin-top: 80px;
+text-align: center;       
+}
+
+#product-container {
+background: white;
+padding: 2rem;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
+
+.product {
+border: 3mm solid #870707;
+padding: 20px;
+margin: 3mm;
+display: none;
+}
+
+button {
+padding: 0.5rem 1rem;
+border: none;
+border-radius: 5px;
+background: #007BFF;
+color: white;
+cursor: pointer;
+transition: background 0.3s;
+}
